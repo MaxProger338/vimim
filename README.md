@@ -10,7 +10,7 @@
 
 ### Install
 
-1. Copy *aliases.sh* to your shell-rc (in my situation - ~/.bashrc)
+1. Copy *aliases.sh* to your shell-rc (in my situation ~/.bashrc)
 2. Copy *vimim.sh* to *.local/bin/* (or change in aliases.sh)
 3. Use *. ~/.bashrc* to reload your shell config
 
