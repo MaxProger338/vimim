@@ -1,4 +1,4 @@
-**Vimim (VIM IMproved)** - my aliases for comfort use vim command.
+**Vimim (Vim IMproved)** - my aliases for comfort use vim command.
 
 ### Usage
 
